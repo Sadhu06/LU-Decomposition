@@ -13,6 +13,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. using np.array store matrix in variable matrix
 3. using lu(),we can find lower triangular matrix and upper triangular matrix
 4. print the lower triangular matrix and upper triangular matrix
+
 (ii)
 1. Import numpy as np and from scipy.linalg import lu
 2. using np.array store matrix in variable matrix
