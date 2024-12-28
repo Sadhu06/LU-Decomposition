@@ -1,5 +1,3 @@
-# LU Decomposition 
-
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
@@ -54,9 +52,9 @@ print(solution)
 ```
 
 ## Output:
-![Screenshot from 2024-12-25 15-44-18](https://github.com/user-attachments/assets/c4f06ad0-f2c6-44d0-8720-98132e626a06)
+!["Output"](lu.png)
 
-![Screenshot from 2024-12-25 16-01-19](https://github.com/user-attachments/assets/d4ab3fa3-794a-4c0b-b90d-552452bef238)
+!["Output"](./lusolution.png)
 
 
 ## Result:
